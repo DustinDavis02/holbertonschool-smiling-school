@@ -65,6 +65,7 @@ span {
     background-color: #071629;
 }
 /*  PRICING PAGE */
+
 /* hero section */
 
 .hero-img2 {
@@ -74,7 +75,7 @@ span {
     position: relative;
     background-size: cover;
 }
-/* PRICING - TABLE */
+/* Table section */
 
 .table>tbody>tr:first-child>td,
 .table>tbody>tr:first-child>th {
@@ -89,4 +90,17 @@ span {
 th,
 td {
     vertical-align: middle;
+}
+/*  COURSES PAGE */
+
+.hero-img3 {
+    background: url('images/pic_3.jpg') center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 300px;
+    position: relative;
+}
+
+.highlightcolor {
+    background-color: #C271FF;
 }
