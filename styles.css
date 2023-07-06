@@ -40,3 +40,8 @@ span {
 
 
 @media (max-width: 769px) {}
+
+/* Carousel */
+.bk-color {
+    background-color: #C271FF;
+}
