@@ -45,3 +45,14 @@ span {
 .bk-color {
     background-color: #C271FF;
 }
+/* Most popular tutorials */
+.play-img {
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.stars p {
+    color: #C271FF;
+}
