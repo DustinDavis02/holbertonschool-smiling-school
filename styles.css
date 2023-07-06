@@ -74,3 +74,19 @@ span {
     position: relative;
     background-size: cover;
 }
+/* PRICING - TABLE */
+
+.table>tbody>tr:first-child>td,
+.table>tbody>tr:first-child>th {
+    border: none;
+}
+
+.bi {
+    color: #82d24f;
+}
+
+.table tr,
+th,
+td {
+    vertical-align: middle;
+}
